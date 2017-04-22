@@ -1,0 +1,69 @@
+==============版本管理员操作========================
+第一步： 创建数据仓库
+
+git init --bare shared.git
+
+==============开发人员1操作=============================
+
+第二步：复制仓库到本地
+
+git clone /f/software/repository/git/shared.git/ . (注意有个点，表明当前目录)
+
+第三步：设置个人信息
+
+git config user.name "user1"
+git config user.email "user1@163.com"
+
+
+第四步：忽略无需版本控制的文档
+
+echo "*.txt" > .gitignore
+
+第五步：新建一个文件
+
+echo "User1 add content" > index.jsp
+
+第六步：提交文件
+
+git add index.jsp
+git commit -m "User1 add the file"
+
+
+第七步：把自己的仓库提交到公共服务器
+
+git push origin master
+
+==============开发人员2操作=============================
+
+第八步：复制仓库到本地
+
+git clone /f/software/repository/git/shared.git/ .
+
+第九步：设置个人信息
+
+git config user.name "user2"
+git config user.email "user2@163.com"
+
+第十步：忽略无需版本控制的文档
+
+echo "*.txt" > .gitignore
+
+第十一步：新建一个文件
+
+echo "User2 add content" >> index.jsp
+
+第十二步：提交文件
+
+git add index.jsp
+git commit -m "User2 add the file!"
+
+
+第十三步：把自己的仓库提交到公共服务器
+
+git push origin master
+
+
+==============开发人员1操作=============================
+第十四步：下载服务器最新数据
+
+git pull
