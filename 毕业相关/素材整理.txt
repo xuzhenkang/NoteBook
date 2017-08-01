@@ -14,16 +14,76 @@
 
 思路：
 
-1.考虑打分的从众心理
-
-
-如果用户a对物品i在时间t处给出评分为\rho，
-用户b对物品i在时间t+\tall处给出评分为\rho + r_0
-且，r_0<评分阈值， \tall < 时间阈值
-那么可以认为用户b为用户a的追随者。
-
+1.考虑打分的从众心理（受到 基于时序行为的协同过滤推荐算法 的启发）
+如果用户$a$对物品i在时间$t$处给出评分为$\rho$，
+用户$b$对物品$i$在时间$t+\tau$处给出评分为$\rho + \gamma$
+且，$\gamma < 评分阈值$， $\tau < 时间阈值$
+那么可以认为用户$b$为用户$a$的追随者。
+所有$b$的追随者构成集合$A$，统计$A$喜欢的标签，给出用户对标签的评分矩阵。（平均值法或其他的。）对该矩阵进行概率矩阵分解。得出潜在特征因子矩阵。预测$b$的喜好标签（评分值大于某阈值）的标签。在物品集中找出该标签的物品，推荐给$b$。
 
 2.打分时个人偏好
+
+
+
+αβγδεζηθικλμνξοπρστυφχψω
+
+
+
+
+\documentclass{ctexart}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+\begin{document}
+\begin{algorithm}[H]
+\caption{GetIntoCache} \label{ABCLFRS}
+\begin{algorithmic}[1]
+\STATE{$i \leftarrow 0$}
+\STATE{$j \leftarrow 0$}
+\IF {$cacheSize = 0$}
+	\STATE{$cache[0][0]$ is true}
+\ELSE
+	\STATE{$i \leftarrow currentListIndex$}
+	\STATE{$j \leftarrow currentProgIndex$}
+	\WHILE{$j < progCount$}
+		\IF{$j = progCount$}
+			\STATE{Find the uncached Program $x$ from the next list}
+		\ELSE
+			\STATE{$cache[i][j]$ is true}
+			\STATE{cacheSize = cacheSize + $LIST[i][j]$}
+			\STATE{duration = $LIST[i][j]$}
+			\STATE{QUIT}
+		\ENDIF
+	\ENDWHILE
+\ENDIF
+\end{algorithmic}
+\end{algorithm}
+\end{document}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
