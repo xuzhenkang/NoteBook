@@ -14,3 +14,13 @@
 6) "git push"
 
 ps：这种办法的好处就是想对简单一些，比起“clone到本地，然后再删除重建远程分支”的办法简单一些。
+【问题3】git如何使用代理
+解决步骤：
+1) 设置代理的步骤
+   "git config --global http.proxy http://219.216.65.174:808" http代理服务
+   或
+   "git config --global https.proxy https://219.216.65.174:808" https代理服务
+2) 取消代理的步骤
+   "git config --global --unset http.proxy"  http代理服务
+   或
+   "git config --global --unset https.proxy"  https代理服务
