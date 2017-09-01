@@ -129,7 +129,7 @@ http://cts.dajie.com/cts/wish?corpId=9104102800000000607
 【网易】
 http://campus.163.com/#/applyJob/empRecode
 登录：contorboy@126.com
-状态：已投递（9-1，研发工程师（网易有道-BJ）-网易有道），已反馈，未测评（http://campus.163.com/#/applyJob/mailDetail?id=4662048）
+状态：已投递（9-1，研发工程师（网易有道-BJ）-网易有道），已反馈，已测评（http://campus.163.com/#/applyJob/mailDetail?id=4662048）
 
 【携程】
 http://ctrip.zhiye.com/Portal/Apply/Index
