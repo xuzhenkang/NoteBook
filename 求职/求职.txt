@@ -150,6 +150,12 @@ http://i.51job.com/userset/my_apply.php?type=xy&lang=c
 51job登录
 状态：已投递（9-1，软件开发工程师， 南京），已反馈
 
+【美图】
+http://meitu.hotjob.cn/wt/Meitu/web/index/primaryResumeN300!listResume?brandCode=1&operational=63323f29769cb6828f5f9b7c0029d2e88655cbfdba00c42dba50d682255e101e0d05301943d37c4c2d16f13322660ad69c4a3ae5fb6b01b2a1afb577c3e21137b7fbac5823d5b17b9ef2fc008cff1acc5253c93b63df6f84
+登录：xuzhenkang@hotmail.com
+密码：查邮件
+状态：已投递（9-3，Java系统研发工程师，厦门），未反馈
+
 
 
 ===================未投递==================
@@ -185,6 +191,14 @@ ForkJoin
 民族： 汉族 婚姻状况： 未婚 政治面貌： 团员 目前所在城市： 沈阳 户口所在城市： 辽阳 
 个人评价： 勤奋好学，喜欢挑战，具有较强的动手能力和团队精神，极强的吃苦耐劳精神。有一些管理团队的经验。 
 Email： xuzhenkang@hotmail.com 是否接受短信通知： 是 期望工作地点： 北京 是否北京面试： 否 
+
+喜欢且能熟练使用Java编程语言
+有一定的JavaWeb开发经验
+了解Hadoop基本原理
+掌握数据结构与算法
+熟悉RedHat Linux平台
+有机器学习数据挖掘等相关基础
+
 
 教育背景 
 2015-09--2018-01 东北大学|计算机相关类(计算机技术)|硕士
