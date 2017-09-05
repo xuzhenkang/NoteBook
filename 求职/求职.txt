@@ -150,6 +150,45 @@ http://i.51job.com/userset/my_apply.php?type=xy&lang=c
 51job登录
 状态：已投递（9-1，软件开发工程师， 南京），已反馈
 
+【亚马逊】
+http://i.51job.com/userset/my_apply.php?type=xy&lang=c
+51job登录
+状态：已投递（9-5，软件开发工程师 北京）
+
+【爱奇艺】
+http://zhaopin.iqiyi.com/index.html
+登录：13234040959
+密码：有符号
+状态：已投递（9-5，Java开发工程师-校招-北京）
+
+【游族网络】
+http://www.hotjob.cn/wt/youzu/web/index/campus
+登录名：xuzhenkang
+密码：无符号
+状态：已投递（9-5，平台开发工程师-Java，上海），未反馈
+
+【三七互娱】
+http://zhaopin.37.com/index.php?m=Home&c=campus&a=index
+登录：xuzhenkang@hotmail.com
+密码：无符号
+状态：已投递（9-5，JAVA服务端程序，广州或上海），未反馈。
+
+【拼多多】
+http://pinduoduo.zhiye.com/Portal/Apply/Index
+QQ登录
+状态：已投递（9-5，服务端研发工程师(2018校招），上海市），已反馈。
+
+【美丽联合集团】
+http://job.mogujie.com/#/campus/success?_k=zpn2kp
+QQ登录
+13234040959
+状态：已投递（9-5，应用平台开发工程师，杭州），未反馈。
+
+【海康威视】
+http://campus.hikvision.com/Portal/Apply/Index
+QQ登录
+状态：已投递（9-5，应用软件开发工程师（Java）杭州），已反馈，未测评（9-8截止）。
+
 
 
 ===================未投递==================
@@ -183,7 +222,7 @@ ForkJoin
 基本信息
 出生日期： 1992-05-13
 民族： 汉族 婚姻状况： 未婚 政治面貌： 团员 目前所在城市： 沈阳 户口所在城市： 辽阳 
-个人评价： 勤奋好学，喜欢挑战，具有较强的动手能力和团队精神，极强的吃苦耐劳精神。有一些管理团队的经验。 
+个人评价： 勤奋好学，喜欢挑战，具有较强的动手能力和团队精神，极强的吃苦耐劳精神。
 Email： xuzhenkang@hotmail.com 是否接受短信通知： 是 期望工作地点： 北京 是否北京面试： 否 
 
 教育背景 
