@@ -171,7 +171,7 @@ http://www.hotjob.cn/wt/youzu/web/index/campus
 http://zhaopin.37.com/index.php?m=Home&c=campus&a=index
 登录：xuzhenkang@hotmail.com
 密码：无符号
-状态：已投递（9-5，JAVA服务端程序，广州或上海），未反馈。
+状态：已投递（9-5，JAVA服务端程序，广州或上海），已反馈。
 
 【拼多多】
 http://pinduoduo.zhiye.com/Portal/Apply/Index
