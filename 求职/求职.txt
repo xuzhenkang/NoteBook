@@ -143,7 +143,7 @@ http://hr.xiaomi.com/user/index
 
 【涂鸦移动】
 hr@doodlemobile.com
-状态：已投递（9-1），未反馈
+状态：已投递（9-1），已反馈（9-6），已笔试（9-7提交）
 
 【趋势科技】
 http://i.51job.com/userset/my_apply.php?type=xy&lang=c
@@ -171,7 +171,7 @@ http://www.hotjob.cn/wt/youzu/web/index/campus
 http://zhaopin.37.com/index.php?m=Home&c=campus&a=index
 登录：xuzhenkang@hotmail.com
 密码：无符号
-状态：已投递（9-5，JAVA服务端程序，广州或上海），已反馈。
+状态：已投递（9-5，JAVA服务端程序，广州或上海），已反馈，已笔试（9-6，晚7点到7点40，共10道题，有一道题没做出来，8分）
 
 【拼多多】
 http://pinduoduo.zhiye.com/Portal/Apply/Index
@@ -187,7 +187,7 @@ QQ登录
 【海康威视】
 http://campus.hikvision.com/Portal/Apply/Index
 QQ登录
-状态：已投递（9-5，应用软件开发工程师（Java）杭州），已反馈，未测评（9-8截止）。
+状态：已投递（9-5，应用软件开发工程师（Java）杭州），已反馈，已测评（9-8截止），已笔试（9-7,10:45）。
 
 
 
