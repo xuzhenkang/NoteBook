@@ -240,7 +240,16 @@ http://campus.chinahr.com/2018/bilibili/index.html
 
 【用友】
 51job登录
-状态：已投递（9-10，Java开发工程师，北京）
+状态：已投递（9-10，Java开发工程师，北京），已测评.
+
+【美的】
+http://zhaopin.midea.com.cn/mideaweb/hrZhaopin/modules/user/userCenter.html
+用户名：xuzhenkang
+邮箱地址：xuzhenkang@hotmail.com
+密码：无符号
+状态：已投递（9-10，后台开发 深圳市,佛山市,成都市,苏州市,无锡）
+
+
 
 ===================未投递==================
 
@@ -255,7 +264,7 @@ http://lu.zhiye.com/Campus
 
 【饿了么】
 https://campus.ele.me/jobs/#campus=true&page=1
-【用友】
+
 【猎豹】
 
 
