@@ -1,44 +1,38 @@
 重要链接：https://www.nowcoder.com/activity/campus2018
-===================已投递==================
-【阿里】
-https://campus.alibaba.com/myJobApply.htm?loginType=taobao
-状态：已投递（8-14，研发工程师JAVA），已笔试（两道编程题，1,40%，2,25%）
-【百度】
-投递邮箱：cst-resume@baidu.com
-状态：已投递（8-17，云计算事业部），未反馈
-【百度】
-内推：wangxin44@baidu.com
-状态：已投递（8-17，基础平台开发工程师），未反馈
-【华为】
-状态：已面试（8-16优招），未通过（8-17）
-【秒针】
-状态：已投递（8-17，研发工程师），已反馈（8-18）
-【美团点评】
-内推：liuguangdong@meituan.com
-http://campus.meituan.com/#/personal（微信登录）
-状态：已投递（8-17，后台开发），已反馈（8-18），网上完善简历（8-30）
+========================================================================
+测评队列：
+【绿盟】9-13 11:42截止
+【海尔】2017-09-14 23:59:59截止
+========================================================================
+笔试队列：
+9-12 19:00~21:00 腾讯
+========================================================================
+面试队列：
+9-12 15:30 涂鸦移动二面
+9-13 10:00 阿里巴巴一面(视频面试)
+========================================================================
+投递队列：
+【聚美】
+【饿了么】
+https://campus.ele.me/jobs/#campus=true&page=1
 
-【4399】
-内推码：K8APCGVL
-web.4399.com/campus
-用户名：contorboy@126.com
+【猎豹】
+
+【BIGO】
+【英特尔】
+
+========================================================================
+投递队列：
+【苏宁】
+登录：13234040959
 密码：无符号
-状态：已投递（8-17，Web后端开发工程师）
+http://campus.suning.cn/rps-web/ftl/positionApply/searchPositionApply.htm?preach_name=campus
+状态：已投递（9-12，Java开发工程师（总部））
 
-【招商银行网络科技】
-https://cmbnt.cmbchina.com/zhaopin/UserCenter/Default.aspx
-状态：已投递（8-22，软件开发工程师（杭州）），未反馈。
-
-【吉比特-雷霆游戏】
-campus.g-bits.com
-状态：已投递（8-28，平台研发工程师）
-
-
-【今日头条】
-内推码：QXVYYD8
-https://job.toutiao.com/campus
-状态：已笔试（两道编程题，）
-
+【陆金所】
+http://lu.zhiye.com/
+QQ登录
+状态：已投递（9-11，Java开发 上海市）
 
 【中兴】
 http://job.zte.com.cn/
@@ -72,13 +66,13 @@ http://career.sina.com.cn/welcome.html
 内推码：NGPS8
 用户名：kang_1992
 含英文简历
-状态：已投递（8-28，研发工程师_JAVA方向）
+状态：已投递（8-28，研发工程师_JAVA方向），已反馈（9-11）
 
 
 【盛大游戏】
 http://shandagames.zhiye.com/
 QQ登录
-状态：已投递（8-28，软件开发JAVA，大数据开发，上海），已反馈（8-28）
+状态：已投递（8-28，软件开发JAVA，大数据开发，上海），已反馈（8-28），已放弃。
 
 【完美世界】
 http://jobs.wanmei.com/
@@ -107,7 +101,7 @@ http://campus.jd.com/web/apply/myjob
 
 51job登录（http://i.51job.com/userset/my_apply.php?type=xy&lang=c）
 账号：13234040959
-状态：已投递（8-28，数据开发工程师，简历编号是2302），已反馈
+状态：已投递（8-28，数据开发工程师，简历编号是2302），已反馈，已笔试（9-11，不会，全是C++）
 
 【唯品会】
 http://campus.vip.com/job.html?page=7
@@ -128,7 +122,7 @@ http://www.dajie.com/corp/2875118/custom/campus/innerLink/27703809?O1IEJRqIByTAe
 【搜狗】
 http://cts.dajie.com/cts/wish?corpId=9104102800000000607
 大街网登录（微信登录）
-状态：已投递（8-30，Hadoop工程师技术工程部，北京，Java开发工程师搜狗游戏，北京），已反馈
+状态：已投递（8-30，Hadoop工程师技术工程部，北京，Java开发工程师搜狗游戏，北京），已反馈，已笔试（9-8下午4点到6点）
 
 【网易】
 http://campus.163.com/#/applyJob/empRecode
@@ -164,7 +158,7 @@ http://i.51job.com/userset/my_apply.php?type=xy&lang=c
 http://zhaopin.iqiyi.com/index.html
 登录：13234040959
 密码：有符号
-状态：已投递（9-5，Java开发工程师-校招-北京）
+状态：已投递（9-5，Java开发工程师-校招-北京），已笔试（9-10）
 
 【游族网络】
 http://www.hotjob.cn/wt/youzu/web/index/campus
@@ -195,7 +189,7 @@ QQ登录
 状态：已投递（9-5，应用软件开发工程师（Java）杭州），已反馈，已测评（9-8截止），已笔试（9-7,10:45）。
 
 【东软】
-状态：笔试完毕（9-6）
+状态：笔试完毕（9-6），一面结束（9-8）
 
 【腾讯】
 腾讯（join.qq.com）
@@ -218,7 +212,7 @@ https://campus.liepin.com/apply/showHpoApplyList/
 【北京神州绿盟信息安全科技股份有限公司】
 简历：http://applyjob.chinahr.com/apply/form/job?projectId=598d3f8f7bb1ac014b4e7f96
 提交状态：http://applyjob.chinahr.com/page/job/success?projectId=598d3f8f7bb1ac014b4e7f96
-状态：已投递（9-9，JAVA开发工程师（西安））
+状态：已投递（9-9，JAVA开发工程师（西安）），未测评（9-11，截止日期：48小时后）
 
 【百度】
 http://talent.baidu.com/external/baidu/campus.html#/individualCenter
@@ -249,25 +243,63 @@ http://zhaopin.midea.com.cn/mideaweb/hrZhaopin/modules/user/userCenter.html
 密码：无符号
 状态：已投递（9-10，后台开发 深圳市,佛山市,成都市,苏州市,无锡）
 
+【新东方】
+账号：xuzhenkang
+密码：无符号
+状态：已投递（9-11， 北京）
 
+【索尼】
+QQ登录（智联招聘）
+状态：已投递（9-11，大连），已反馈
 
-===================未投递==================
+【58】
+中华英才网登录
+状态：已投递（9-11，后端开发工程师，北京）
 
-58
-苏宁
-聚美
+【阿里】
+https://campus.alibaba.com/myJobApply.htm?loginType=taobao
+状态：已投递（8-14，研发工程师JAVA），已笔试（两道编程题，1,40%，2,25%），一面（9-13）
+【美团点评】
+内推：liuguangdong@meituan.com
+http://campus.meituan.com/#/personal（微信登录）
+状态：已投递（8-17，后台开发），已反馈（8-18），网上完善简历（8-30）
+【秒针】
+状态：已投递（8-17，研发工程师），已反馈（8-18）
+【华为】
+状态：已面试（8-16优招），未通过（8-17）
+【百度】
+内推：wangxin44@baidu.com
+状态：已投递（8-17，基础平台开发工程师），未反馈
+【百度】
+投递邮箱：cst-resume@baidu.com
+状态：已投递（8-17，云计算事业部），未反馈
+【今日头条】
+内推码：QXVYYD8
+https://job.toutiao.com/campus
+状态：已笔试（两道编程题，）
+【吉比特-雷霆游戏】
+campus.g-bits.com
+状态：已投递（8-28，平台研发工程师）
+【招商银行网络科技】
+https://cmbnt.cmbchina.com/zhaopin/UserCenter/Default.aspx
+状态：已投递（8-22，软件开发工程师（杭州）），未反馈。
+【4399】
+内推码：K8APCGVL
+web.4399.com/campus
+用户名：contorboy@126.com
+密码：无符号
+状态：已投递（8-17，Web后端开发工程师）
+========================================================================
+已挂队列：
+【华为】面试未通过
+【海康威视】笔试未通过
+【华宇】未参加
+【阿里内推】面试未通过
+【巨人网络】已放弃
+【盛大游戏】已放弃（与爱奇艺冲突）
+【中体彩】现场笔试未通过
 
-
-【陆金所】
-http://lu.zhiye.com/Campus
-
-
-【饿了么】
-https://campus.ele.me/jobs/#campus=true&page=1
-
-【猎豹】
-
-
+========================================================================
 lambda表达式
 动态规划
 ForkJoin
