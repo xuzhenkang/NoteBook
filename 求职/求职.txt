@@ -1,6 +1,7 @@
 重要链接：https://www.nowcoder.com/activity/campus2018
 ========================================================================
 测评队列：
+【360】
 
 ========================================================================
 笔试队列：
@@ -16,6 +17,9 @@
 【小米】2017-09-18 19:00 ~ 21:00 
 【百度】2017年9月19日19:00至21:30 （笔试登录时间为19:00至19:30）
 【招银网络科技】2017年9月25日18:30——2017年9月25日21:00
+【携程】2017-09-21 19:00 ~ 2017-09-21 20:30
+【饿了么】9月21日23:30前登陆 campus.ele.me ，进入【个人中心-投递进度】完成笔试测评
+【美的】9-21 19:00 ~ 23:59 （笔试1个小时）
 
 ========================================================================
 面试队列：
@@ -30,7 +34,37 @@
 简历接收截止日期为 2017年9月 30日
 
 ========================================================================
-投递队列：
+已投递队列：
+【酷狗音乐】
+http://i.51job.com/userset/my_apply.php?type=xy&lang=c
+状态：已投递（9-20，后端开发，广州）
+
+【斗鱼】
+状态：已投递（9-20，Java web 开发工程师，武汉市）
+【hypereal】
+Java后端要求：
+18届毕业生，本科以上学历；
+Java 编程基础扎实，对数据结构和算法设计具有良好的理解；
+熟悉操作系统和多线程编程技术，了解虚拟机技术；
+对缓存、队列、存储、网络、代理、配置等各种服务端开源方案有了解者优先；
+有 NOI、ACM、数学等竞赛获奖经验是加分项。
+状态：已投递（9-20，Java后端工程师 上海）
+
+
+【凤凰网】
+https://xiaoyuan.zhaopin.com/Home/MyApply/recordlist
+登录：xuzhenkang@hotmail.com
+密码：无符号
+状态：已投递（9-20，java开发工程师1,2,3.北京），已反馈。
+
+【艺龙】
+http://elong.zhiye.com/Portal/Apply/Index
+状态：已投递（9-20，研发工程师（Java语言） 北京市）
+
+【金山云】
+http://ksyun.hirede.com/UserCenter/CampusJobApplication/ApplicationDetails
+QQ登录
+状态：已投递（9-20 Java开发工程师（2018应届生）北京、大数据平台开发工程师（2018应届生）北京）
 【猎豹】
 网 申: 8月23日-10月13日
 状态：已投递（9-18，服务端开发工程师-C++/JAVA（2018校招）广东省），已反馈
@@ -192,6 +226,12 @@ hr@doodlemobile.com
 http://i.51job.com/userset/my_apply.php?type=xy&lang=c
 51job登录
 状态：已投递（9-1，软件开发工程师， 南京），已反馈
+
+【美图】
+http://meitu.hotjob.cn/wt/Meitu/web/index/applyPositionN300!listApplyPosition?brandCode=1&operational=ac2493e4acc1354843b9adb0bc3e938eff552a0cc9e06904fda674ba33369772623efad505acf1fd3a9e182a39a637196e3d636b432a286b98a91d43d480aa0369ba53b7e4d9d90b0bc450f6fdcd2b023c86210505d6c660423714d8b7267d2b
+登录名：xuzhenkang@hotmail.com
+密码：无符号
+状态：已投递（9-3，Java系统研发工程师）
 
 【亚马逊】
 http://i.51job.com/userset/my_apply.php?type=xy&lang=c
