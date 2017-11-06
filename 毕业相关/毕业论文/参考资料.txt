@@ -22,4 +22,14 @@ http://finance.sina.com.cn/roll/2017-05-19/doc-ifyfkkmc9691901.shtml
 Ｊａｐａｎ：ｗｈａｔ　ｉｓ　ｔｈｅ　ｎｅｘｔ　ｓｔｅｐ　ｏｆ　ｄｅｒｅｇｕｌａｔｉｏｎ？［Ｊ］．Ｅｎｅｒｇｙ
 Ｐｏｌｉｃｙ，２００６，３４（１６）：２４９１－２４９７．
 
+8.基于时序行为的协同过滤推荐算法
+
+9.项亮 推荐系统实践
+10.Towards Conversational Recommender Systems
+11.Song Y，Zhang L， et al． Automatic tag recommendation algorithm for social recommender systems［J］． ACM Transactions on the Web， 2011，5 ( 1) : 4 － 39．
+12.GoldbergD,NicholsD,OkiBM,etal.Usingcollaborativefilteringtoweaveaninformationtapestry[J].Communica-tionsoftheACM,1992,35(12):61-70.
+13.ResnickP,VarianHR.Recommendersystems[J].Commu-nicationsoftheACM,1997,40(3):56-58.
+14.ResnickP,IacovouN,SuchakM,etal.GroupLens:anopenarchitectureforcollaborativefilteringofnetnews[C]//Pro-ceedingsofthe1994ACMConferenceonComputerSup-portedCooperativeWork,Oct22-26,1994.NewYork,NY,USA:ACM,1994:175-186.
+15.LindenG,SmithB,YorkJ.Amazon.comrecommenda-tions:item-to-itemcollaborativefiltering[J].IEEEInternetComputing,2003,7(1):76-80.
+
 
