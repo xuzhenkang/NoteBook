@@ -18,4 +18,12 @@ http://finance.sina.com.cn/roll/2017-05-19/doc-ifyfkkmc9691901.shtml
 14.ResnickP,IacovouN,SuchakM,etal.GroupLens:anopenarchitectureforcollaborativefilteringofnetnews[C]//Pro-ceedingsofthe1994ACMConferenceonComputerSup-portedCooperativeWork,Oct22-26,1994.NewYork,NY,USA:ACM,1994:175-186.
 15.LindenG,SmithB,YorkJ.Amazon.comrecommenda-tions:item-to-itemcollaborativefiltering[J].IEEEInternetComputing,2003,7(1):76-80.
 
+16.Kong W, Liu Q, Yang Z, et al. Collaborative filtering algorithm incorporated with cluster-based expert selection[J]. 2012, 9(12):3421-3429.
+17.对大用户直购电交易的探讨_胡江溢
+18.关于发电企业向用户直供电情况的探讨_胡清智
+19.Kong W, Liu Q, Wang S, et al. Relation-based collaborative filtering algorithm[J]. Journal of Computational Information Systems, 2012, 8(15):6257-6265.
+
+
+
+
 
