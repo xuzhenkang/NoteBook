@@ -12,6 +12,7 @@ http://finance.sina.com.cn/roll/2017-05-19/doc-ifyfkkmc9691901.shtml
 8.孙光福, 吴乐, 刘淇,等. 基于时序行为的协同过滤推荐算法[J]. 软件学报, 2013(11):2721-2733.
 9.项亮. 推荐系统实践[M]. 人民邮电出版社, 2012.
 10.Christakopoulou K, Radlinski F, Hofmann K. Towards Conversational Recommender Systems[C]// The, ACM SIGKDD International Conference. ACM, 2016:815-824.
+
 11.Song Y, Zhang L, Giles C L. Automatic tag recommendation algorithms for social recommender systems[M]. ACM, 2011.
 12.Goldberg D. Using collaborative filtering to weave an information tapestry[J]. Communications of the Acm, 1992, 35(12):61-70.
 13.ResnickP,VarianHR.Recommendersystems[J].Commu-nicationsoftheACM,1997,40(3):56-58.
@@ -22,14 +23,16 @@ http://finance.sina.com.cn/roll/2017-05-19/doc-ifyfkkmc9691901.shtml
 18.胡清智. 关于发电企业向用户直供电情况的探讨[J]. 广西电业, 2014(1):93-96.
 19.Kong W, Liu Q, Wang S, et al. Relation-based collaborative filtering algorithm[J]. Journal of Computational Information Systems, 2012, 8(15):6257-6265.
 20.D. J. Field. What is the goal of sensory coding? Neural Computation, 6:559–601, 1994.
+
 21.Hoyer P O. Non-negative matrix factorization with sparseness constraints[C]// Jour. of. 2004:1457--1469.
 22.Huang Z. Applying associative retrieval techniques to alleviate the sparsity problem in collaborative filtering[J]. Acm Transactions on Information Systems, 2015, 22(1):116-142.
 23.Ren J, Zhou T, Zhang Y C. Information Filtering via Self-Consistent Refinement[J]. Epl, 2008, 82(5):-.
 24.Sun D, Zhou T, Liu J G, et al. Information filtering based on transferring similarity.[J]. Physical Review E Statistical Nonlinear & Soft Matter Physics, 2009, 80(1 Pt 2):017101.
-
-
-
-
+25.Das A S, Datar M, Garg A, et al. Google news personalization:scalable online collaborative filtering[C]// International Conference on World Wide Web. ACM, 2007:271-280.
+26.Sarwar B, Karypis G, Konstan J, et al. Item-based collaborative filtering recommendation algorithms[C]// International Conference on World Wide Web. ACM, 2001:285-295.
+27.Salakhutdinov R, Mnih A. Probabilistic Matrix Factorization[C]// International Conference on Neural Information Processing Systems. Curran Associates Inc. 2007:1257-1264.
+28.Stern D H, Herbrich R, Graepel T. Matchbox:large scale online bayesian recommendations[C]// International Conference on World Wide Web. ACM, 2009:111-120.
+29.Christakopoulou K, Radlinski F, Hofmann K. Towards Conversational Recommender Systems[C]// The, ACM SIGKDD International Conference. ACM, 2016:815-824.
 
 
 
