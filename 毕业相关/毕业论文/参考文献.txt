@@ -33,10 +33,11 @@ http://finance.sina.com.cn/roll/2017-05-19/doc-ifyfkkmc9691901.shtml
 27.Salakhutdinov R, Mnih A. Probabilistic Matrix Factorization[C]// International Conference on Neural Information Processing Systems. Curran Associates Inc. 2007:1257-1264.
 28.Stern D H, Herbrich R, Graepel T. Matchbox:large scale online bayesian recommendations[C]// International Conference on World Wide Web. ACM, 2009:111-120.
 29.Christakopoulou K, Radlinski F, Hofmann K. Towards Conversational Recommender Systems[C]// The, ACM SIGKDD International Conference. ACM, 2016:815-824.
+30.郭云飞, 方耀宁, 扈红超. 基于Logistic函数的社会化矩阵分解推荐算法[J]. 北京理工大学学报, 2016, 36(1):70-74.
 
-
-
-
+31.燕彩蓉, 张青龙, 赵雪,等. 基于广义高斯分布的贝叶斯概率矩阵分解方法[J]. 计算机研究与发展, 2016, 52(12):2793-2800.
+32.赵长伟, 彭勤科, 张志勇. 混合因子矩阵分解推荐算法[J]. 西安交通大学学报, 2016, 50(12):87-91.
+33.梅忠, 肖如良, 张桂刚. 基于受约束偏置的概率矩阵分解算法[J]. 计算机系统应用, 2016, 25(5):113-117.
 
 
 
