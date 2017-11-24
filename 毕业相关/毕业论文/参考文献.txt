@@ -37,6 +37,7 @@ https://www.puc.texas.gov/agency/rulesnlaws/subrules/electric/25.107/25.107.pdf.
 
 31.赵长伟, 彭勤科, 张志勇. 混合因子矩阵分解推荐算法[J]. 西安交通大学学报, 2016, 50(12):87-91.
 32.梅忠, 肖如良, 张桂刚. 基于受约束偏置的概率矩阵分解算法[J]. 计算机系统应用, 2016, 25(5):113-117.
+33.Jamali M, Ester M. A matrix factorization technique with trust propagation for recommendation in social networks[C]// ACM Conference on Recommender Systems. ACM, 2010:135-142.
 
 
 
