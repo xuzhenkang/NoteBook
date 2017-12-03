@@ -39,6 +39,8 @@ https://www.puc.texas.gov/agency/rulesnlaws/subrules/electric/25.107/25.107.pdf.
 32.梅忠, 肖如良, 张桂刚. 基于受约束偏置的概率矩阵分解算法[J]. 计算机系统应用, 2016, 25(5):113-117.
 33.Yu H, Yu H, Yu H, et al. Convolutional Matrix Factorization for Document Context-Aware Recommendation[C]// ACM Conference on Recommender Systems. ACM, 2016:233-240.
 34.Jamali M, Ester M. A matrix factorization technique with trust propagation for recommendation in social networks[C]// ACM Conference on Recommender Systems. ACM, 2010:135-142.
-
-
+35.Melville P, Mooney R J, Nagarajan R. Content-boosted collaborative filtering for improved recommendations[C]// Eighteenth national conference on Artificial intelligence. American Association for Artificial Intelligence, 2002:187-192.
+36.陈希孺. 非参数统计教程[M]. 华东师范大学出版社, 1993.
+37.Silverman B W. Density estimation for statistics and data analysis[M]. CRC press, 1986.
+38.Givens G H, Hoeting J A. Computational statistics[M]. John Wiley & Sons, 2012.
 
