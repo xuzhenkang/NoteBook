@@ -43,4 +43,8 @@ https://www.puc.texas.gov/agency/rulesnlaws/subrules/electric/25.107/25.107.pdf.
 36.陈希孺. 非参数统计教程[M]. 华东师范大学出版社, 1993.
 37.Silverman B W. Density estimation for statistics and data analysis[M]. CRC press, 1986.
 38.Givens G H, Hoeting J A. Computational statistics[M]. John Wiley & Sons, 2012.
+39.Breese J S, Heckerman D, Kadie C. Empirical Analysis of Predictive Algorithm for Collaborative Filtering[J]. 2013, 7(7):43-52.
+40.Linden G, Smith B, York J. Amazon.com Recommendations: Item-to-Item Collaborative Filtering[J]. IEEE Internet Computing, 2003, 7(1):76-80.
 
+41.Breese J S, Heckerman D, Kadie C. Empirical analysis of predictive algorithms for collaborative filtering[J]. 2013, 7(7):43-52.
+42.Karypis G. Evaluation of Item-Based Top-N Recommendation Algorithms[C]// Tenth International Conference on Information and Knowledge Management. ACM, 2001:247-254.
