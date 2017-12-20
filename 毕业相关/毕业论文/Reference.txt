@@ -1,0 +1,49 @@
+[1]	中发〔2015〕9号, 关于进一步深化电力体制改革的若干意见[S].
+[2]	刘鲁, 任晓丽. 推荐系统研究进展及展望[J]. 信息系统学报, 2008(1):82-90.
+[3]	刘杰. 电力市场力的量度及抑制理论方法研究[D]. 华北电力大学(北京), 2004.
+[4]	程其麟. 贵州电网企业发展研究[D]. 贵州大学, 2006.
+[5]	Public Utility Commission of Texas.25.107 Certification of retail electric providers(REPs)[EB/OL].[2015-11-20].
+[6]	张晓萱, 薛松, 杨素,等. 售电侧市场放开国际经验及其启示[J]. 电力系统自动化, 2016, 40(9):1-8.
+[7]	American Public Power Association.2014 retail electric rates in deregulated and regulated States[R].2015.
+[8]	郭立夫, 崔新宇. 日本电力交易所的设计与运营[J]. 商场现代化, 2007(14):80-81.
+[9]	ASANO H.Regulatory reform of the electricity industry in Japan:what is the next step of deregulation?[J].Energy Policy,2006,34(16):2491-2497.
+[10]	Maes P. Agents that reduce work and information overload[M]. ACM, 1994.
+[11]	孙光福, 吴乐, 刘淇,等. 基于时序行为的协同过滤推荐算法[J]. 软件学报, 2013(11):2721-2733.
+[12]	Goldberg D. Using collaborative filtering to weave an information tapestry[J]. Communications of the Acm, 1992, 35(12):61-70.
+[13]	Resnick P, Iacovou N, Suchak M, et al. GroupLens: an open architecture for collaborative filtering of netnews[C]// ACM Conference on Computer Supported Cooperative Work. ACM, 1994:175-186.
+[14]	Resnick P, Varian H R. Recommender systems[M]. ACM, 1997.
+[15]	项亮. 推荐系统实践[M]. 人民邮电出版社, 2012.
+[16]	Das A S, Datar M, Garg A, et al. Google news personalization:scalable online collaborative filtering[C]// International Conference on World Wide Web. ACM, 2007:271-280.
+[17]	Sarwar B, Karypis G, Konstan J, et al. Item-based collaborative filtering recommendation algorithms[C]// International Conference on World Wide Web. ACM, 2001:285-295.
+[18]	Salakhutdinov R, Mnih A. Probabilistic Matrix Factorization[C]// International Conference on Neural Information Processing Systems. Curran Associates Inc. 2007:1257-1264.
+[19]	Stern D H, Herbrich R, Graepel T. Matchbox:large scale online bayesian recommendations[C]// International Conference on World Wide Web. ACM, 2009:111-120.
+[20]	Christakopoulou K, Radlinski F, Hofmann K. Towards Conversational Recommender Systems[C]// The, ACM SIGKDD International Conference. ACM, 2016:815-824.
+[21]	Linden G, Smith B, York J. Amazon.com Recommendations: Item-to-Item Collaborative Filtering[J]. IEEE Internet Computing, 2003, 7(1):76-80.
+[22]	Song Y, Zhang L, Giles C L. Automatic tag recommendation algorithms for social recommender systems[M]. ACM, 2011.
+[23]	Breese J S, Heckerman D, Kadie C. Empirical Analysis of Predictive Algorithm for Collaborative Filtering[J]. 2013, 7(7):43-52.
+[24]	Karypis G. Evaluation of Item-Based Top-N Recommendation Algorithms[C]// Tenth International Conference on Information and Knowledge Management. ACM, 2001:247-254.
+[25]	Silverman B W. Density estimation for statistics and data analysis[M]. CRC press, 1986.
+[26]	Givens G H, Hoeting J A. Computational statistics[M]. John Wiley & Sons, 2012.
+[27]	陈希孺. 非参数统计教程[M]. 华东师范大学出版社, 1993.
+[28]	Kullback S, Leibler R A. On Information and Sufficiency[J]. Annals of Mathematical Statistics, 1951, 22(1):79-86.
+[29]	Hazewinkel M. Encyclopaedia of Mathematics[J]. Reference Reviews, 1995, 17(7):49-50.
+[30]	Olkin I, Pukelsheim F. The distance between two random vectors with given dispersion matrices[J]. Linear Algebra & Its Applications, 1982, 48(82):257-263.
+[31]	Kong W, Liu Q, Yang Z, et al. Collaborative filtering algorithm incorporated with cluster-based expert selection[J]. 2012, 9(12):3421-3429.
+[32]	胡江溢, 陈西颖. 对大用户直购电交易的探讨[J]. 电网技术, 2007, 31(24):40-45.
+[33]	胡清智. 关于发电企业向用户直供电情况的探讨[J]. 广西电业, 2014(1):93-96.
+[34]	Kong W, Liu Q, Wang S, et al. Relation-based collaborative filtering algorithm[J]. Journal of Computational Information Systems, 2012, 8(15):6257-6265.
+[35]	D. J. Field. What is the goal of sensory coding? Neural Computation, 6:559–601, 1994.
+[36]	Hoyer P O. Non-negative matrix factorization with sparseness constraints[C]// Jour. of. 2004:1457--1469.
+[37]	Huang Z. Applying associative retrieval techniques to alleviate the sparsity problem in collaborative filtering[J]. Acm Transactions on Information Systems, 2015, 22(1):116-142.
+[38]	Ren J, Zhou T, Zhang Y C. Information Filtering via Self-Consistent Refinement[J]. Epl, 2008, 82(5):-.
+[39]	Sun D, Zhou T, Liu J G, et al. Information filtering based on transferring similarity.[J]. Physical Review E Statistical Nonlinear & Soft Matter Physics, 2009, 80(1 Pt 2):017101.
+[40]	郭云飞, 方耀宁, 扈红超. 基于Logistic函数的社会化矩阵分解推荐算法[J]. 北京理工大学学报, 2016, 36(1):70-74.
+[41]	燕彩蓉, 张青龙, 赵雪,等. 基于广义高斯分布的贝叶斯概率矩阵分解方法[J]. 计算机研究与发展, 2016, 52(12):2793-2800.
+[42]	赵长伟, 彭勤科, 张志勇. 混合因子矩阵分解推荐算法[J]. 西安交通大学学报, 2016, 50(12):87-91.
+[43]	梅忠, 肖如良, 张桂刚. 基于受约束偏置的概率矩阵分解算法[J]. 计算机系统应用, 2016, 25(5):113-117.
+[44]	Jamali M, Ester M. A matrix factorization technique with trust propagation for recommendation in social networks[C]// ACM Conference on Recommender Systems. ACM, 2010:135-142.
+[45]	Billsus D, Pazzani M J. Learning Collaborative Information Filters[C]// Machine Learning. In: Proceedings of the Fifteenth International Conference. 1998.
+[46]	Deshpande M, Karypis G. Item-based top- N recommendation algorithms[J]. Acm Transactions on Information Systems, 2004, 22(1):143-177.
+[47]	Ruchansky N, Crovella M, Terzi E. Matrix Completion with Queries[C]// ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015:1025-1034.
+[48]	Android手机界面管理系统的设计与实现
+[49]	基于MVC模式在重构Android开发的应用
