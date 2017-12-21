@@ -45,5 +45,5 @@
 [45]	Billsus D, Pazzani M J. Learning Collaborative Information Filters[C]// Machine Learning. In: Proceedings of the Fifteenth International Conference. 1998.
 [46]	Deshpande M, Karypis G. Item-based top- N recommendation algorithms[J]. Acm Transactions on Information Systems, 2004, 22(1):143-177.
 [47]	Ruchansky N, Crovella M, Terzi E. Matrix Completion with Queries[C]// ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015:1025-1034.
-[48]	Android手机界面管理系统的设计与实现
-[49]	基于MVC模式在重构Android开发的应用
+[48]	孙晓宇. Android手机界面管理系统的设计与实现[D]. 北京邮电大学, 2009.
+[49]	刘昭. 基于MVC模式在重构Android开发的应用[J]. 科技致富向导, 2014(36):243-243.
